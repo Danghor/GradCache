@@ -64,7 +64,7 @@ grad_cache.GradCache(
 **scaler** - A GradScaler object for automatic mixed precision training.
 
 ### Cache Gradient Step
-To run a cached gradient computatoin step, call `cache_step` function,
+To run a cached gradient computation step, call `cache_step` function,
 
 ```
 cache_step(  
